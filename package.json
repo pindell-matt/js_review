@@ -1,0 +1,25 @@
+{
+  "name": "js_review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pindell-matt/js_review.git"
+  },
+  "author": "Matt Pindell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pindell-matt/js_review/issues"
+  },
+  "homepage": "https://github.com/pindell-matt/js_review#readme"
+}
